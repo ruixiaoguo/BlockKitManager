@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '11.0'
+target “BlockKitManager” do
+pod 'SDAutoLayout'
+pod 'BlocksKit'
+pod 'GKNavigationBar'
+# use_framework !
+end

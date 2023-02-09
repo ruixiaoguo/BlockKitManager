@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  BlockKitManager
+//
+//  Created by GRX on 2023/2/9.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "SDAutoLayout.h"
+#import "GKNavigationBar.h"
+#import "BlocksKit.h"
+#import "BlocksKit+UIKit.h"
+#import "BlocksKit+MessageUI.h"
+#import <BlocksKit/A2DynamicDelegate.h>
+#endif /* PrefixHeader_pch */

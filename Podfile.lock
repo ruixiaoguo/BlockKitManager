@@ -1,0 +1,42 @@
+PODS:
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - GKNavigationBar (1.8.0):
+    - GKNavigationBar/GestureHandle (= 1.8.0)
+    - GKNavigationBar/NavigationBar (= 1.8.0)
+  - GKNavigationBar/GestureHandle (1.8.0)
+  - GKNavigationBar/NavigationBar (1.8.0)
+  - SDAutoLayout (2.2.1)
+
+DEPENDENCIES:
+  - BlocksKit
+  - GKNavigationBar
+  - SDAutoLayout
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - BlocksKit
+    - GKNavigationBar
+    - SDAutoLayout
+
+SPEC CHECKSUMS:
+  BlocksKit: 8639b2848dd51c35c957af4d9fbdc7a769a1fc12
+  GKNavigationBar: b40644da4d9f783d3af3adc2b3477a0faeece551
+  SDAutoLayout: 8bf6b3bbc8b01f775d4defbb4fda2ace805461be
+
+PODFILE CHECKSUM: 72f80851db63d2d551b1e9a28190ec5edb38175e
+
+COCOAPODS: 1.11.2
